@@ -61,3 +61,5 @@
  grep -rl sec | xargs rm -f
 30. Вывести в терминал строку 
  echo "Строка"
+31. Отправить http запрос на сервер http://162.55.220.72:5005/terminal-hw-request
+ curl http://162.55.220.72:5005/terminal-hw-reques
